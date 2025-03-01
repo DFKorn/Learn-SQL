@@ -7,7 +7,7 @@ LIMIT 1
 ;
 
 
--- solution =>
+-- initial author's solution
 
 SELECT
   albums.name as Name,
